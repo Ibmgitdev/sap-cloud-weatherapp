@@ -12,7 +12,7 @@
 		
 		<com.sap.cloud.neo.api-version>1.128.17.3</com.sap.cloud.neo.api-version>	
 		
-		<org.apache.cxf-version>3.0.0</org.apache.cxf-version>
+		<org.apache.cxf-version>3.0.1</org.apache.cxf-version>
 		<org.codehaus.jackson-version>1.9.9</org.codehaus.jackson-version>
 	</properties>
 
